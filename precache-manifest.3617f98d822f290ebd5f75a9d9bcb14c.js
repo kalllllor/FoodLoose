@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a8ab568b25977d9c3b8a7851c4e98b22",
+    "revision": "01ba39bbcc33932c67028214b8680243",
     "url": "/FoodLoose/index.html"
   },
   {
-    "revision": "14ee1121d4f39311a73d",
+    "revision": "05968b912567207d6fb8",
     "url": "/FoodLoose/static/css/main.f1589ada.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FoodLoose/static/js/2.e537c0ee.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "14ee1121d4f39311a73d",
-    "url": "/FoodLoose/static/js/main.19c51ed8.chunk.js"
+    "revision": "05968b912567207d6fb8",
+    "url": "/FoodLoose/static/js/main.c5052675.chunk.js"
   },
   {
     "revision": "db2c8aa604a86c4d7860",

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/FoodLoose/static/css/main.f1589ada.chunk.css",
-    "main.js": "/FoodLoose/static/js/main.19c51ed8.chunk.js",
-    "main.js.map": "/FoodLoose/static/js/main.19c51ed8.chunk.js.map",
+    "main.js": "/FoodLoose/static/js/main.c5052675.chunk.js",
+    "main.js.map": "/FoodLoose/static/js/main.c5052675.chunk.js.map",
     "runtime-main.js": "/FoodLoose/static/js/runtime-main.add4df3b.js",
     "runtime-main.js.map": "/FoodLoose/static/js/runtime-main.add4df3b.js.map",
     "static/js/2.e537c0ee.chunk.js": "/FoodLoose/static/js/2.e537c0ee.chunk.js",
     "static/js/2.e537c0ee.chunk.js.map": "/FoodLoose/static/js/2.e537c0ee.chunk.js.map",
     "index.html": "/FoodLoose/index.html",
-    "precache-manifest.8c39881f6d5ce6b47a86796e4b66c19b.js": "/FoodLoose/precache-manifest.8c39881f6d5ce6b47a86796e4b66c19b.js",
+    "precache-manifest.3617f98d822f290ebd5f75a9d9bcb14c.js": "/FoodLoose/precache-manifest.3617f98d822f290ebd5f75a9d9bcb14c.js",
     "service-worker.js": "/FoodLoose/service-worker.js",
     "static/css/main.f1589ada.chunk.css.map": "/FoodLoose/static/css/main.f1589ada.chunk.css.map",
     "static/js/2.e537c0ee.chunk.js.LICENSE.txt": "/FoodLoose/static/js/2.e537c0ee.chunk.js.LICENSE.txt",
@@ -27,6 +27,6 @@
     "static/js/runtime-main.add4df3b.js",
     "static/js/2.e537c0ee.chunk.js",
     "static/css/main.f1589ada.chunk.css",
-    "static/js/main.19c51ed8.chunk.js"
+    "static/js/main.c5052675.chunk.js"
   ]
 }
