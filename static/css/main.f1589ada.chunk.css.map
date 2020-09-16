@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,QACE,qBAAuB,CACvB,oBACF","file":"main.f1589ada.chunk.css","sourcesContent":[".active {\n  background-color: black;\n  transform: scale(1.1);\n}\n"]}
