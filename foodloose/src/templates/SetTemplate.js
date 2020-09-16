@@ -163,7 +163,7 @@ function SetTemplate({
               exact
               as={NavLink}
               activeColor={sets[0].color.css}
-              to={`${sets[0].title.replace(/\s/g, '')}Preview`}
+              to="FrancuskipocałunekPreview"
             >
               Powrót
             </StyledButton>

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Route, Switch, useLocation } from 'react-router-dom';
+import { Route, Switch, useLocation,Redirect } from 'react-router-dom';
 import { AnimatePresence } from 'framer-motion';
 import SetTemplate from 'templates/SetTemplate';
 import PreviewTemplate from 'templates/PreviewTemplate';
@@ -32,6 +32,9 @@ function SetsView() {
             />
           </Route>
         ))}
+        <Route exact path="/FoodLoose">
+          <Redirect exact to={`${Sets[0].data.sets[0].title.replace(/\s/g, '')}Preview`}/>
+        </Route>
       </Switch>
     </AnimatePresence>
   );
